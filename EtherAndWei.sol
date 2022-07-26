@@ -1,9 +1,4 @@
-// SPDX-License-Identifier: MIT
-
-pragma solidity 0.8.13;
-
 /*
-
 Ether e Wei
 
 Ether é diferente de Ethereum, Ether é a cripto nativa da blockchain Ethereum;
